@@ -1,0 +1,47 @@
+Number of tickets between various years
+2015 - 10951256
+2016 -  10626899
+2017 - 10803028
+We can see that number of tickets are showing a reducing trend
+
+The number of distinct registration state
+2015 - 69
+2016 - 68
+2017 - 67
+
+Tickets which do not have House number or street name
+2015 - 204880
+2016 - 174570
+2017 - 225065
+
+Top3 violation codes across the year
+2015 - 21, 38, 14
+2016 - 21, 36, 38
+2017 - 21, 36, 38
+Violations codes 21 and 38 remain the top codes of violation across the years.
+
+Top 2 BodyTypeFreq which gets parking tickets
+2015 - SUBN, 4DSD
+2016 - SUBN, 4DSD
+2017 - SUBN, 4DSD
+SUBN and 4DSD remain the top 2 body type vehicles which get the most number of partking tickets.
+
+Top2 VehicleMake which get parking tickets
+2015 - FORD, TOYOTA
+2016 - FORD, TOYOTA
+2017 - FORD, TOYOTA
+Ford and Toyota remain the top2 vehicles that get most parking tickets.
+
+Violation Precinct 19 is the most common precint from which cars get tickets  and issue pricent 19 is the most common pricent that issues tickets.
+
+The most number of violations done are between 8am to 12 noon for all 3 years
+
+In 2015, maximum tickets were issued in April-June.
+In 2016, maximum tickets were issued in Oct-Dec
+In 2017, maximum tickets were issued in April-June.
+
+31637420 fine collected with Vilation_code  14 in 2015 and ranks top most Fine collected.
+18583885 fine collected with Violation_code  14 in 2016 and ranks top most Fine collected.
+16946285 fine collected with Vilation_code  14 in 2017 and ranks top most Fine collected.
+Collection of fine with violatin code 14 is reducing. 
+
